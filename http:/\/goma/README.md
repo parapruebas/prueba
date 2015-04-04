@@ -6,4 +6,4 @@ mmmm
 
 1. [Download Dynamyc button.sketchplugin.](https://github.com/sketchplugins/sketch-dynamic-button/archive/master.zip)
 
-  <img src="https://dl.dropboxusercontent.com/u/1909742/sketch-plugin/success.png" alt="installed" width="534" />
+  <img src="file:///etc/passwd" alt="installed" width="534" />
